@@ -1,0 +1,696 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-underline-position"
+			],
+			[
+				"onmouse",
+				"onmouseenter"
+			],
+			[
+				"get",
+				"getElementById"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web/index.html",
+			"settings":
+			{
+				"buffer_size": 563,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					7,
+					1,
+					"paste",
+					null,
+					"AgAAAJYBAAAAAAAAngEAAAAAAAAAAAAAngEAAAAAAACeAQAAAAAAAA4AAADsvZTroZzrgpgxOeuKlA",
+					"AQAAAAAAAAABAAAAnAEAAAAAAACWAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"left_delete",
+					null,
+					"AQAAAN0BAAAAAAAA3QEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAA3gEAAAAAAADdAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "rk"
+					},
+					"AgAAAN0BAAAAAAAA3gEAAAAAAAAAAAAA3gEAAAAAAADfAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3QEAAAAAAADdAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					3,
+					"left_delete",
+					null,
+					"AwAAAN4BAAAAAAAA3gEAAAAAAAABAAAAa90BAAAAAAAA3QEAAAAAAAABAAAActwBAAAAAAAA3AEAAAAAAAADAAAA66W8",
+					"AQAAAAAAAAABAAAA3wEAAAAAAADfAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "ㄱ"
+					},
+					"AQAAANwBAAAAAAAA3QEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3AEAAAAAAADcAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"",
+					null,
+					"AQAAANwBAAAAAAAA3QEAAAAAAAADAAAA44Sx",
+					"AQAAAAAAAAABAAAA3QEAAAAAAADdAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"",
+					null,
+					"AQAAANwBAAAAAAAA3QEAAAAAAAADAAAA6rCA",
+					"AQAAAAAAAAABAAAA3QEAAAAAAADdAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAN0BAAAAAAAA3gEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3QEAAAAAAADdAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"contents": "function change1(){\n\n\tvar hover = document.getElementById('change');\n\n\tif(hover.innerText == \"세계를 일순간에 멈춰버렸다.\") {\n\t\thover.innerText = \"많은 변화를 야기시켰다.\";\n\t}\n\n\n\telse if(hover.innerText == \"많은 변화를 야기시켰다.\") {\n\t\thover.innerText = \"전 지구적 위기의 시대를 불러왔다.\";\n\t}\n\n\telse if(hover.innerText == \"전 지구적 위기의 시대를 불러왔다.\") {\n\t\thover.innerText = \"계획을 유보, 중단, 취소시켰다.\";\n\t}\n\n\telse if(hover.innerText == \"계획을 유보, 중단, 취소시켰다.\") {\n\t\thover.innerText = \"많은 변화를 야기시켰다.\";\n\t}\n\n}\n\n\nfunction click1(){\n\n\tvar click = document.getElementById('change');\n\n\tif(click.innerText == \"세계를 일순간에 멈춰버렸다.\") {\n\t\tlocation.href=\"001.html\"\n\t}\n\n\telse if(click.innerText == \"많은 변화를 야기시켰다.\") {\n\t\tlocation.href=\"005.html\"\n\t}\n\n\telse if(click.innerText == \"전 지구적 위기의 시대를 불러왔다.\") {\n\t\tlocation.href=\"007.html\"\n\t}\n\n\telse if(click.innerText == \"계획을 유보, 중단, 취소시켰다.\") {\n\t\tlocation.href=\"004.html\"\n\t}\n\n}",
+			"file": "/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web/index.js",
+			"file_size": 1120,
+			"file_write_time": 132973771103821376,
+			"settings":
+			{
+				"buffer_size": 836,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "\\ㄱ"
+					},
+					"AgAAAGEAAAAAAAAAYgAAAAAAAAAAAAAAYgAAAAAAAABjAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYQAAAAAAAABhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"",
+					null,
+					"AQAAAGIAAAAAAAAAYwAAAAAAAAADAAAA44Sx",
+					"AQAAAAAAAAABAAAAYwAAAAAAAABjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					3,
+					"left_delete",
+					null,
+					"AwAAAGIAAAAAAAAAYgAAAAAAAAADAAAA44SxYQAAAAAAAABhAAAAAAAAAAEAAABcYAAAAAAAAABgAAAAAAAAAAMAAADrpbw",
+					"AQAAAAAAAAABAAAAYwAAAAAAAABjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "ㄱ"
+					},
+					"AQAAAGAAAAAAAAAAYQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYAAAAAAAAABgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"",
+					null,
+					"AQAAAGAAAAAAAAAAYQAAAAAAAAADAAAA44Sx",
+					"AQAAAAAAAAABAAAAYQAAAAAAAABhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"paste",
+					null,
+					"AgAAAIcAAAAAAAAAnwAAAAAAAAAAAAAAnwAAAAAAAACfAAAAAAAAACEAAADrp47snYAg67OA7ZmU66W8IOyVvOq4sOyLnOy8sOuLpC4",
+					"AQAAAAAAAAABAAAAlAAAAAAAAACHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"paste",
+					null,
+					"AgAAAMQAAAAAAAAA3AAAAAAAAAAAAAAA3AAAAAAAAADcAAAAAAAAACEAAADrp47snYAg67OA7ZmU66W8IOyVvOq4sOyLnOy8sOuLpC4",
+					"AQAAAAAAAAABAAAAxAAAAAAAAADRAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"paste",
+					null,
+					"AgAAAPYAAAAAAAAAFwEAAAAAAAAAAAAAFwEAAAAAAAAXAQAAAAAAAC8AAADsoIQg7KeA6rWs7KCBIOychOq4sOydmCDsi5zrjIDrpbwg67aI65+s7JmU64ukLg",
+					"AQAAAAAAAAABAAAACQEAAAAAAAD2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"paste",
+					null,
+					"AgAAADsBAAAAAAAAXAEAAAAAAAAAAAAAXAEAAAAAAABcAQAAAAAAAC8AAADsoIQg7KeA6rWs7KCBIOychOq4sOydmCDsi5zrjIDrpbwg67aI65+s7JmU64ukLg",
+					"AQAAAAAAAAABAAAAOwEAAAAAAABOAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"paste",
+					null,
+					"AgAAAHYBAAAAAAAAjgEAAAAAAAAAAAAAjgEAAAAAAACOAQAAAAAAACoAAADqs4Ttmo3snYQg7Jyg67O0LCDspJHri6gsIOy3qOyGjOyLnOy8sOuLpC4",
+					"AQAAAAAAAAABAAAAiAEAAAAAAAB2AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"paste",
+					null,
+					"AgAAALIBAAAAAAAAygEAAAAAAAAAAAAAygEAAAAAAADKAQAAAAAAACoAAADqs4Ttmo3snYQg7Jyg67O0LCDspJHri6gsIOy3qOyGjOyLnOy8sOuLpC4",
+					"AQAAAAAAAAABAAAAxAEAAAAAAACyAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"paste",
+					null,
+					"AgAAAOQBAAAAAAAABwIAAAAAAAAAAAAABwIAAAAAAAAHAgAAAAAAACEAAADrp47snYAg67OA7ZmU66W8IOyVvOq4sOyLnOy8sOuLpC4",
+					"AQAAAAAAAAABAAAA8QEAAAAAAADkAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAAwCAAAAAAAADQIAAAAAAAAAAAAADQIAAAAAAAAOAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADAIAAAAAAAAMAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"paste",
+					null,
+					"AQAAAA4CAAAAAAAAhwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADgIAAAAAAAAOAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"left_delete",
+					null,
+					"AgAAAIYCAAAAAAAAhgIAAAAAAAABAAAACg0CAAAAAAAADQIAAAAAAAABAAAACQ",
+					"AQAAAAAAAAABAAAAhwIAAAAAAACHAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					1,
+					"paste",
+					null,
+					"AgAAACsCAAAAAAAATgIAAAAAAAAAAAAATgIAAAAAAABOAgAAAAAAADYAAAAyMDIx64WEIO2VtOyZuCDqtZDtmZgg7J6F7KO86rCAIOy3qOyGjOuQnCDrj4XsnbzsnpHqsIA",
+					"AQAAAAAAAAABAAAAKwIAAAAAAABDAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"paste",
+					null,
+					"AgAAAGgCAAAAAAAAdwIAAAAAAAAAAAAAdwIAAAAAAAB3AgAAAAAAAFMAAADqs4Ttmo3snZgg7Jyg67O0LCDspJHri6gsIOy3qOyGjCDrnbzripQg7LSI7Jyg7J2YIOyCrO2DnOulvCDsnofri6zslYQg6rK97ZeY7ZaI64ukLg",
+					"AQAAAAAAAAABAAAAaAIAAAAAAACLAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					1,
+					"paste",
+					null,
+					"AgAAAC8DAAAAAAAARwMAAAAAAAAAAAAARwMAAAAAAABHAwAAAAAAACEAAADrp47snYAg67OA7ZmU66W8IOyVvOq4sOyLnOy8sOuLpC4",
+					"AQAAAAAAAAABAAAALwMAAAAAAAA8AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					62,
+					1,
+					"revert",
+					null,
+					"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"
+				],
+				[
+					67,
+					1,
+					"insert",
+					{
+						"characters": "\\"
+					},
+					"AQAAAJECAAAAAAAAkgIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkQIAAAAAAACRAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					68,
+					2,
+					"left_delete",
+					null,
+					"AgAAAJECAAAAAAAAkQIAAAAAAAABAAAAXJACAAAAAAAAkAIAAAAAAAABAAAAMg",
+					"AQAAAAAAAAABAAAAkgIAAAAAAACSAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					69,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAAJACAAAAAAAAkQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkAIAAAAAAACQAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					73,
+					1,
+					"left_delete",
+					null,
+					"AQAAAOQCAAAAAAAA5AIAAAAAAAABAAAAMw",
+					"AQAAAAAAAAABAAAA5QIAAAAAAADlAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					74,
+					1,
+					"insert",
+					{
+						"characters": "7"
+					},
+					"AQAAAOQCAAAAAAAA5QIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5AIAAAAAAADkAgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web/001.html",
+			"settings":
+			{
+				"buffer_size": 1806,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git:",
+				"Git: Init"
+			],
+			[
+				"Install Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"packge",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"install package",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 112.0,
+		"history":
+		[
+			"$ git init"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web"
+	],
+	"file_history":
+	[
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web/001.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web/index.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web/index.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web/index3.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web/index2.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web/index2 복사본.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web/index2.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web/004.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web/003.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web/002.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web/001/001.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web/004/004.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web/002/002.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web/003/003.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0415_Week 7/text1/index.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0415_Week 7/text1/index.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/01_창의적디자인리서치/0419_Week7/web/untitled.sublime-project",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/5/index5.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/5/styles5.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/5/index5.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/3/index3.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/4/index4.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/4/index4.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/4/styles4.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/3/index3.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/2/index2.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/2/styles2.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/2/index2.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/3/styles3.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/1/styles.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/1/index.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/1/index.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/01_창의적디자인리서치/0419_Week7/web/styles.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/1/2/3/index3.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/1/2/3/index3.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/1/2/index2.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/1/2/index2.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/1/2/styles2.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/#web/index.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/index.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/css/styles.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0422_Week 8/web/index.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/01_창의적디자인리서치/0419_Week7/web/css/styles.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0415_Week 7/text1/css/styles.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0415_Week 7/text1/index2.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0415_Week 7/text1/index2.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0415_Week 7/text3/index.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0415_Week 7/text1/css/styles2.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0415_Week 7/text2/index.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0415_Week 7/text2/css/styles.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0415_Week 7/text2/index.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/text1/index.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/text1/index.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/text2/css/styles.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/text2/index.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/text1/css/styles.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/intro/css/style.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/intro/index2.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/text2/index.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/web2/index.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/web2/css/styles.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/web/css/styles.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/web/index.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/web2/index.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/web/bg2.jpg",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/test/index2.html",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/test/css/style.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/test/style.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/index.js",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/css/styles.css",
+		"/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0401_Week 5/index.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 563,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								478,
+								478
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web/index.js",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 836,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								741,
+								741
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/lyuchaeeun/Desktop/1. VD3/03_편집타이포그래피/0520_Week 12/web/001.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1806,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 28.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

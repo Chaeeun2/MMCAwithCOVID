@@ -1,0 +1,302 @@
+@font-face {
+    font-family: 'DungGeunMo';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/DungGeunMo.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html,
+body {
+    margin: 0;
+    font-family: 'DungGeunMo';
+}
+
+#index {
+    background: #070087;
+    color: white;
+}
+
+#index2 {
+    background: #35797b;
+    color: white;
+}
+
+#index3 {
+    background: #ff8400;
+    color: white;
+}
+
+#index4 {
+    background: #e10a6f;
+    color: white;
+}
+
+#index5 {
+    background: #0ae114;
+    color: white;
+}
+
+#index6 {
+    background: #ffea00;
+    color: black;
+}
+
+#index7 {
+    background: #357821;
+    color: white;
+}
+
+#index8 {
+    background: #02bdec;
+    color: white;
+}
+
+#index9 {
+    background: #d51212;
+    color: white;
+}
+
+#body001 {
+    background: #d8d4c9;
+    color: black;
+    padding-bottom: 50px;
+}
+
+#content1 {
+    font-size: 35px;
+    line-height: 1.4;
+    margin: 80px;
+    display: block;
+}
+
+.content2 {
+    line-height: 1.8;
+    margin: 80px 80px 60px 80px;
+}
+
+#content3 {
+    margin: 80px;
+    text-align: left;
+    display: none;
+}
+
+.underline1,
+.underline2,
+.underline3,
+.underline4,
+.underline5,
+.underline6,
+.underline7,
+.underline8,
+.underline9 {
+    display: inline;
+}
+
+.underline1:hover {
+    background: white;
+    color: #070087;
+}
+
+.underline2:hover {
+    background: white;
+    color: #35797b;
+}
+
+.underline3:hover {
+    background: white;
+    color: #ff8400;
+}
+
+.underline4:hover {
+    background: white;
+    color: #e10a6f;
+}
+
+.underline5:hover {
+    background: white;
+    color: #0ae114;
+}
+
+.underline6:hover {
+    background: black;
+    color: #ffea00;
+}
+
+.underline7:hover {
+    background: white;
+    color: #357821;
+}
+
+.underline8:hover {
+    background: white;
+    color: #02bdec;
+}
+
+.underline9:hover {
+    background: white;
+    color: #d51212;
+}
+
+.color1 {
+    background: #070087;
+    color: white;
+    text-decoration: none;
+}
+
+.color2 {
+    background: #35797b;
+    color: white;
+    text-decoration: none;
+}
+
+.color3 {
+    background: #ff8400;
+    color: white;
+    text-decoration: none;
+}
+
+.color4 {
+    background: #e10a6f;
+    color: white;
+    text-decoration: none;
+}
+
+.color5 {
+    background: #0ae114;
+    color: white;
+    text-decoration: none;
+}
+
+.color6 {
+    background: #ffea00;
+    color: black;
+    text-decoration: none;
+}
+
+.color7 {
+    background: #357821;
+    color: white;
+    text-decoration: none;
+}
+
+.color8 {
+    background: #02bdec;
+    color: white;
+    text-decoration: none;
+}
+
+.color9 {
+    background: #d51212;
+    color: white;
+    text-decoration: none;
+}
+
+img {
+    width: 99%;
+    display: inline;
+    vertical-align: top;
+    border: 3px solid #000000;
+    margin-left: 20px;
+}
+
+h1 {
+    text-align: left;
+    word-break: keep-all;
+}
+
+/* 전시 제목 */
+h2 {
+    font-size: 45px;
+    margin-bottom: 30px;
+    line-height: 1;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+h3 {
+    font-size: 22px;
+}
+
+/* 전시설명 */
+h6 {
+    font-weight: 400;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 60px;
+    margin-left: 20px;
+    display: inline-block;
+    width: 100%;
+}
+
+.all {
+    text-decoration: none;
+    color: black;
+}
+
+.all:hover {
+    text-decoration: underline;
+    text-underline-position: under;
+    color: black;
+}
+
+#change1 {
+    display: inline;
+}
+
+#change2,
+#change3,
+#change4,
+#change5,
+#change6,
+#change7,
+#change8 {
+    display: none;
+}
+
+.floating1,
+.floating2,
+.floating3,
+.floating4 {
+    font-size: 19px;
+    text-decoration: none;
+    background: #d8d4c9;
+    color: black;
+    border-top: 2px solid white;
+    border-left: 2px solid white;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+    position: absolute;
+    width: fit-content;
+    text-align: center;
+    line-height: 1.2;
+    padding: 4px 6px;
+}
+
+.floating1:hover,
+.floating2:hover,
+.floating3:hover,
+.floating4:hover {
+    background: black;
+    color: #d8d4c9;
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-bottom: 2px solid white;
+    border-right: 2px solid white;
+}
+
+.line {
+    margin-top: 40px;
+    margin-bottom: 0px;
+    padding: 0px;
+    font-size: 20px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 50px;
+    left: 80px;
+}
+
+/*.flex {
+    display: flex;
+}*/
