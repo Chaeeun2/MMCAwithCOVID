@@ -19,3 +19,39 @@ floatingObject('.floating1', .5, 30)
 floatingObject('.floating2', .3, 50)
 floatingObject('.floating3', 1, 20)
 floatingObject('.floating4', .5, 40)
+
+function click1() {
+    location.href = "index.html"
+}
+
+function click2() {
+    location.href = "index2.html"
+}
+
+function click3() {
+    location.href = "index3.html"
+}
+
+function click4() {
+    location.href = "index4.html"
+}
+
+function click5() {
+    location.href = "index5.html"
+}
+
+function click6() {
+    location.href = "index6.html"
+}
+
+function click7() {
+    location.href = "index7.html"
+}
+
+function click8() {
+    location.href = "index8.html"
+}
+
+function click9() {
+    location.href = "index9.html"
+}
