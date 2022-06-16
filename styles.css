@@ -471,4 +471,8 @@ h6 {
     .listmenumo {
         display: inline;
     }
+
+    #body001 {
+        width: 100vw;
+    }
 }
